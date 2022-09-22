@@ -2,7 +2,7 @@
 
 This is modifying validation component, working with POST array.
 
-##How to use
+## How to use
 Firstly, make sure that your $_POST and $postKeys
 have the same fields.
 
